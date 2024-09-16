@@ -1,2 +1,2 @@
 # path-to-air
-Flash card's based course plataform.
+Flash card's based aviation courses plataform.
